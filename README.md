@@ -4,7 +4,7 @@ A lightweight, terminal-based calculator program written in C that performs fund
 
 ---
 
-## 📄 Source Code Overview
+## 📄 Code Overview
 
 The program is contained entirely within `calculator.c` and supports:
 * **Addition** (`+`) 
